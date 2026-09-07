@@ -587,7 +587,7 @@ lg:items-start
     lg:translate-x-[30px]
   "
 >
-  © {new Date().getFullYear()} B.ZAHLEL INTERIORS . ALL RIGHTS RESERVED
+  © {new Date().getFullYear()} B.ZAHLEL INTERIORS . MADE BY ESTHER MWANIKI . ALL RIGHTS RESERVED
 </p>
 
 
