@@ -452,7 +452,7 @@ lg:items-start
               {/* Instagram */}
 
               <a
-                href="https://www.instagram.com/bzahlel_design_studio/?hl=en"
+                href="https://www.instagram.com/bzahlel_/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram"
